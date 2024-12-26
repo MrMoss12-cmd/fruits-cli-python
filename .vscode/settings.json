@@ -1,0 +1,10 @@
+{
+    "python.analysis.diagnosticSeverityOverrides": {
+
+    },
+
+    "python.analysis.extraPaths": [ 
+        "./env/Lib/site-packages" 
+    ],
+
+}
